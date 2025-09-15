@@ -1,0 +1,20 @@
+{
+  "name": "com.fscigliano.poolingsystem",
+  "version": "1.0.0",
+  "displayName": "Pooling System",
+  "description": "A very basic pooling system using Addressables.",
+  "unity": "2021.3",
+  "keywords": [
+    "tool"
+  ],
+  "author": {
+    "name": "Franco Scigliano",
+    "email": "franco.scigliano.dev@gmail.com",
+    "url": "https://github.com/franco-scigliano-dev/PoolingSystem"
+  },
+  "dependencies": {
+    "com.unity.addressables": "2.3.16",
+    "com.unity.scriptablebuildpipeline": "2.2.11",
+    "com.fscigliano.commonextensions": "https://github.com/franco-scigliano-dev/CommonExtensions.git#v1.0.0"
+  }
+}
